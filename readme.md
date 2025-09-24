@@ -1,3 +1,4 @@
+![Entanglemint Logotype](EntanglemintTriTypeFC.png)
 |               |          |            |                                         |   |
 |---------------|----------|------------|-----------------------------------------|---|
 | 100           | eigen    | state      | Secured, Stored                         | ✓ |
