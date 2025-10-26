@@ -11,8 +11,8 @@ This repository marks the first public release of work from a project that has s
 | .00000000066  | test     | 1          | Verifications                           |   |
 | 0             | photons  | Testing    | Performing                              |   |
 | 25            | Q        | Outcomes   | Performing/Recording/Processing/Storing |   |
-| 66            | target   | Solutions  | Recording/Storing/Confirming            |   |
-| 50            | sworn    | 0          | Generating                              |   |
+| 100           | target   | Solutions  | Recording/Storing/Confirming            | ✓ |
+| 75            | sworn    | 0          | Generating                              |   |
 | 0             | root     | values     | Underway                                |   |
-| 1             | root     | block      | Underway                                |   |
-| 10            | Key Generation       || Underway                                |   |
+| 5             | root     | block      | Underway                                |   |
+| 10            | Key      | Generation | Underway                                |   |
