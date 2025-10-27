@@ -12,7 +12,7 @@ This repository marks the first public release of work from a project that has s
 | 0             | photons  | Testing    | Performing                              |   |
 | 25            | Q        | Outcomes   | Performing/Recording/Processing/Storing |   |
 | 100           | target   | Solutions  | Recording/Storing/Confirming            | ✓ |
-| 75            | sworn    | 0          | Generating                              |   |
+| 100           | sworn    | 0          | Secured, Stored                         | ✓ |
 | 0             | root     | values     | Underway                                |   |
-| 5             | root     | block      | Underway                                |   |
-| 10            | Key      | Generation | Underway                                |   |
+| 10            | root     | block      | Underway                                |   |
+| 12            | Key      | Generation | Underway                                |   |
